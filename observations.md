@@ -31,7 +31,7 @@
 |---------------|---------------------|
 | **La blockchain n'est pas une base de données** | À réserver aux cas où l'**immuabilité** et la **confiance décentralisée** sont critiques (ex : KYC partagé entre banques). |
 | **Les "smart contracts" ne sont pas si smart** | Ils exécutent des règles prédéfinies → **pas de remplacement** pour les processus métier complexes (nécessite un orchestrateur). |
-| **Valeur réelle = gouvernance** | L'apport majeur est la **traçabilité des décisions** (qui a approuvé, quand ?), pas la technologie en elle-même. |
+| **Valeur réelle = gouvernance** | L'apport majeur est la **traçabilité des décisions** (qui a approuvé, quand ?) |
 
 ## 🔮 Prochaines étapes
 1. Explorer l'**intégration avec les middleware** (ex : API Gateway) pour connecter la blockchain aux ERP clients.
